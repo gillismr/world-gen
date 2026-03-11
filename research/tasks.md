@@ -19,11 +19,11 @@
 - [ ] Survey academic / scientific simulation tools relevant to world-gen
 
 ### Algorithms & Techniques
-- [ ] Document key terrain generation algorithms (Perlin, Simplex, diamond-square, etc.)
-- [ ] Document plate tectonics simulation approaches
-- [ ] Document river/erosion simulation approaches
-- [ ] Document climate simulation approaches
-- [ ] Document civilization/history simulation approaches (e.g., agent-based)
+- [x] Document key terrain generation algorithms (Perlin, Simplex, diamond-square, etc.)
+- [x] Document plate tectonics simulation approaches
+- [x] Document river/erosion simulation approaches
+- [x] Document climate simulation approaches
+- [x] Document civilization/history simulation approaches (e.g., agent-based)
 - [ ] Document procedural name/language generation
 
 ### Platform & Tech Landscape
